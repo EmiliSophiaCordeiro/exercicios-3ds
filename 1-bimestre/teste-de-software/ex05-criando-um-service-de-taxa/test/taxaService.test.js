@@ -1,4 +1,4 @@
-const taxaService = require('../taxaService')
+const taxaService = require('../services/taxaService')
 
 describe('taxaService', () => {
   let service
