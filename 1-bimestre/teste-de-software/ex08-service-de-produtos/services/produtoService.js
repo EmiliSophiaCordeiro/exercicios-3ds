@@ -1,11 +1,17 @@
-const db = require('../database/mockDb')
+const produtosDB = []
 
-const produtoService = {
-  cadastrar: (produto) => {
-    if (!produto.nome) return false
-    
-    return db.adicionar(produto)
+class ProdutoService {
+  static cadastrar(produto) {
+    if (!produto.nome || produto.nome.trim() === "") {
+      return false
+    }
+    produtosDB.push(produto)
+    return true
+  }
+
+  static listar() {
+    return produtosDB
   }
 }
 
-module.exports = produtoService
+module.exports = ProdutoService
