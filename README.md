@@ -1,5 +1,7 @@
 <b>🏭 FORMULÁRIO DE SONDAGEM DE CONCEDENTES: [CLIQUE AQUI](https://forms.gle/ZjFrmogfsyjRy4ieA)</b>
 
+## KANBAN DE PROJETOS: <a href="https://github.com/users/evssousa/projects/6/views/1">CLIQUE AQUI</a>
+
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
@@ -18,13 +20,25 @@ Complete o exercício no tempo estimado.
 # Atividades e Projetos - 1º Bimestre
 
 ### Qualidade e Teste de Software
-- Projeto Pessoal: Desenvolver um sistema utilizando conhecimentos de lógica de programação que contenha no mínimo 10 testes unitários e criar um relatório explicativo desses testes em formato de elicitação de requisitos (folha A4).
+- Projeto Pessoal: Desenvolver um sistema utilizando conhecimentos de lógica de programação que contenha no mínimo 10 testes unitários e criar um relatório explicativo desses testes em formato de elicitação de requisitos (folha A4 e formato PDF, enviando para um repositório novo no seu Github).
 Previsão para 30-mar | Quantidade de Indivíduos: 1 pessoa (2-3 min de apresentação)
 - Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Sistema de Validação de Pedidos**<br>
 Prazo de Entrega 1: 25-fev (5 pt) | Prazo de Entrega 2: 01-mar (3 pt)
 - **Projeto 2 - Sistema de Cadastro de Tarefas**<br>
-Prazo de Entrega 1: - 25-mar (5 pt) | Prazo de Entrega 2: - 29-mar (3 pt)
+Prazo de Entrega 1: 25-mar (5 pt) | Prazo de Entrega 2: 29-mar (3 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+- INTRODUÇÃO A TESTES, TDD E TIPOS DE TESTES
+- CONFIGURANDO JEST NO PROJETO
+- CRIANDO O PRIMEIRO TESTE E FUNÇÕES A PARTIR DO TESTE
+- TIPOS DE MATCHERS
+- LIFECYCLE PARA TESTES E CRIANDO SERVICES NA API BASE
+- IMPLEMENTANDO O SERVICE NO CONTROLLER
+- PREPARANDO AMBIENTE PARA TESTES NO BANCO DE DADOS
+- CRIANDO TESTES PARA O SERVICE
+```
 
 ### Gestão de Startup III
 - Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
@@ -32,8 +46,16 @@ Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-
 - Prova Bimestral: previsão para 06-abr
 - **Projeto 1 - Apresentação do Briefing**<br>
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **Projeto 2 - Construção de Perfil Profissional**<br>
+Prazo de Entrega 1: 01-abr (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+- CARREIRA TECH EM 2026: PROFISSIONAL E TECNICO VS GESTÃO
+- ROADMAP DE PRODUTO: COMO PRODUTOS DIGITAIS EVOLUEM NO MERCADO
+- VISÃO DE MERCADO E INOVAÇÃO TECNOLOGICA EM STARTUPS
+- FORMATOS DE TRABALHO: SPRINT
+```
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
 
